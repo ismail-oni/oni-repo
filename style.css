@@ -1,6 +1,20 @@
 h1{
-    color: aqua;
+color: chartreuse;
+background-color: darkgray;
 }
-p{
-    background-color: bisque;
+#name{
+color: darkorange;
+background-color: dimgray;
+
+}
+.blg-1{
+color: dodgerblue;
+background-color: lightslategrey;
+border: 20px solid crimson;
+
+}
+.blg{
+color: magenta;
+background-color: mintcream;
+
 }
